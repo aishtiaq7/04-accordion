@@ -1,3 +1,31 @@
 body{
-  background-color: purple;
+  background-color: #4B145B;
+}
+
+#largerWrapper{
+  display: flex;
+  justify-content: stretch;
+
+  min-height: 560px;
+}
+
+#questionsContainer{
+  flex-grow: 20;
+}
+
+#questionsBox{
+  flex-grow: 1;
+
+  max-width: 45%;
+
+
+  align-items: center;
+  /* margin: 5px 10px; */
+}
+
+#questionsBox h2{
+  font-size: 42px !important ;
+  color: black;
+  padding: 45px 10px;
+
 }
