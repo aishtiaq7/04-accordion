@@ -1,3 +1,6 @@
+CREDITS TO:
+https://www.youtube.com/watch?v=a_7Z7C_JCyo&list=PLp0YVWys_jC6_C_9pAgWgOUup6HuQwEKL&index=1&t=8035s
+
 #### Idea
 
 [uidesigndaily](https://uidesigndaily.com/posts/sketch-accordion-website-day-1175)
